@@ -31,8 +31,8 @@
       "matcher": ""
     },
     "mainnet": {
-        "code": "D",
-        "server": "https://master.devnet.nodes.skey.dev/",
+        "code": "A",
+        "server": "https://master.testnet.node.smartkeyplatform.io",
         "matcher": ""
     },
     "devnet": {
