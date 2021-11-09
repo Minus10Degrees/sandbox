@@ -27,7 +27,7 @@
   "network_config": {
     "testnet": {
       "code": "T",
-      "server": "https://master.testnet.nodes.skey.io",
+      "server": "https://master.testnet.nodes.skey.network",
       "matcher": ""
     },
     "mainnet": {
